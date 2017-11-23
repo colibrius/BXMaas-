@@ -1,5 +1,6 @@
 # BXMaas-
-One Paragraph of project description goes here
+
+Brussels mobility is complex and need to be simplified. We want to have Brussels mobility as a service (BXMaas). 
 
 ## Getting Started
 
@@ -7,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+I recommand to use android studio, this is my IDE. You can download it here : https://developer.android.com/studio/index.html
 
 ```
 Give examples
